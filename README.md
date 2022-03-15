@@ -82,41 +82,5 @@
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-<p align="left">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
-</p>
 
-<p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhSinghRbz&theme=chartreuse-dark"  />
-</p>
- 
-<p>
-<a href="https://github.com/SaurabhSinghRbz"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaurabhSinghRbz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SaurabhSinghRbz&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
-</span></a> </p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr clear="both">
- <br/>
-<p align="center">
-<a href="https://github.com/SaurabhSinghRbz"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaurabhSinghRbz&theme=dracula" />
-</span></a> </p>
-
- <br/>
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaurabhSinghRbz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
-
-<hr clear="both">
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
-
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
