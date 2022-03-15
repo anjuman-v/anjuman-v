@@ -1,87 +1,128 @@
-<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
+# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm ANJUMAN </h1>
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+anjuman;Full+stack+web+developer...)](https://git.io/typing-svg)
+ 
+ <p>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able toperform well in a team. Passionate about coding and equipped with a diverse andpromising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
 
-<h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
-<h3><i>Happy Coding!</i> 😊</h3>
+ 
+
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="50%" />
+
+
+## 🙋‍♂️ About Me
+
+
+</br>
+
+- 🔭 I’m currently working on DSA
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://gpportfolio1.vercel.app/)** -->
+
+- 📫 How to reach me **ansa.anjuma00786@gmail.com**
+
+
+
+</br>
 <hr>
+</br>
+</br>
 
+## Connect with me:-
+<p align="left">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<a href="https://twitter.com/">
+  <img align="left" alt="anjuman" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+ 
+<a href="https://www.linkedin.com/in/anjuman-ansari-0a3810174/">
+  <img align="left" alt="anjuman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
+<a href="https://www.instagram.com/anjuman1602/">
+  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🛠 I’m currently learning about **Mern Stack**🥰<br>
-- 🔥 I use to write code on **[online judge]** <br>
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
-- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
+<a href="https://github.com/anjuman-v">
+  <img align="left" alt="Siddesh Patil" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</a>
 
+<br />
+<br />
+<br />                                                                                                                     
 
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-
- <hr>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
-
+## Interested on my top projects?
 
 <p>
-   <a href="https://twitter.com/">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
-  </a>
-  <a href="mailto:ansa.anjuman00786@gmail.com">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
-  </a>
- <a href="">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/medium.svg" width="32px"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anjuman-ansari-0a3810174/">
-    <img align="left" src="https://raw.githubusercontent.com/Sanjuman-v/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
-  </a>
-  <a href="https://leetcode.com">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
-  </a>
+<a href="https://pantaloons-heroku.herokuapp.com/pages/homePage.html" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pantaloons&color=01AA8B&logo=pantaloons&logoColor=FFFFFF&label=" alt="pantaloons"/></a>
+<a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Best Buy&color=2540A1&logoColor=FFFFFF&label=" alt="Best Buy" /></a>
+<a href="https://clone-cult-fit.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cult Fit&color=000000&logo=Cult Fit&logoColor=FFFFFF&label=" alt="Cult Fit"/></a>
 </p>
 
-<img src ="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+</br>
+</br>
 
-<br>
-<br>
+## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/Coolasid/count.svg" />
 
- <hr>
- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
-<p >
- <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/python%20-%23329993.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=dcad11" />&nbsp;&nbsp;
- <br/>
- <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=41011c&logo=Figma&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=f00604&logo=Sass&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
- <br/>
- <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />&nbsp;&nbsp;                      
+</br>
+</br>
+
+
+## 🚀 Languages and Tools:-
+
+<p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
+     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+  
 </p>
-<hr>
+
+</br>
+</br>
+
+## 📊 My Github Stats
+
+![Anjuman GitHub stats](https://github-readme-stats.vercel.app/api?username=anjuman-v&show_icons=true&theme=radical) 
+
+</br>
 
 
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjuman-v&theme=radical) 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SaurabhSinghRbz}/count.svg" alt="SaurabhSinghRbz :: Visitor's Count" /></p>
+</br>
 
-<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuman-v&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
 
- <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjuman-v)](https://github.com/ryo-ma/github-profile-trophy)
+
+</br>
 
 
-<p align="left">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Coolasid&theme=gruvbox&hide_border=true&area=true)
+<br/>
+<br/>
+
+
+
 </p>
+
 
