@@ -11,9 +11,8 @@
 
 
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,``` .py```, ```.html```
-- 🛠 I’m currently learning about **deep learning**🥰<br>
-- 🔥 I use to write code on **[leetcode](https://leetcode.com/SaurabhSinghRbz/)** <br>
+- 🛠 I’m currently learning about **Mern Stack**🥰<br>
+- 🔥 I use to write code on **[online judge]** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
@@ -29,19 +28,19 @@
 
 
 <p>
-   <a href="https://twitter.com/Saurabh162000">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
+   <a href="https://twitter.com/">
+    <img align="left" src="https://raw.githubusercontent.com/anjuman-v/anjuman-v/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="mailto:singhsaurabh162000@gmail.com">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
+  <a href="mailto:ansa.anjuman00786@gmail.com">
+    <img align="left" src="https://github.com/anjuman-v/anjuman-v/blob/master/Images/mail.png?raw=true" width="32px"  />
   </a>
  <a href="">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/medium.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/anjuman-v/anjuman-v/1049140a71903d67104b4395ec1e24837ea2cece/Images/medium.svg" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/saurabh-singh-8a715b220/">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
+  <a href="https://www.linkedin.com/in/anjuman-ansari-0a3810174/">
+    <img align="left" src="https://raw.githubusercontent.com/Sanjuman-v/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://leetcode.com/SinghSaurabh1602/">
+  <a href="https://leetcode.com">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
   </a>
 </p>
@@ -82,5 +81,7 @@
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-
+<p align="left">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+</p>
 
