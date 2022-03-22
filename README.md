@@ -55,21 +55,6 @@
 <br />
 <br />                                                                                                                     
 
-## Interested on my top projects?
-
-<p>
-<a href="https://pantaloons-heroku.herokuapp.com/pages/homePage.html" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pantaloons&color=01AA8B&logo=pantaloons&logoColor=FFFFFF&label=" alt="pantaloons"/></a>
-<a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Best Buy&color=2540A1&logoColor=FFFFFF&label=" alt="Best Buy" /></a>
-<a href="https://clone-cult-fit.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cult Fit&color=000000&logo=Cult Fit&logoColor=FFFFFF&label=" alt="Cult Fit"/></a>
-</p>
-
-</br>
-</br>
-
-## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/Coolasid/count.svg" />
-
-</br>
-</br>
 
 
 ## 🚀 Languages and Tools:-
