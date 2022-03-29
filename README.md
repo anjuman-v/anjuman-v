@@ -3,34 +3,25 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+anjuman;Full+stack+web+developer...)](https://git.io/typing-svg)
  
- <p>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able toperform well in a team. Passionate about coding and equipped with a diverse andpromising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
-
- 
-
-<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="50%" />
-
-
-## 🙋‍♂️ About Me
-
-
-</br>
-
-- 🔭 I’m currently working on DSA
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://gpportfolio1.vercel.app/)** -->
-
-- 📫 How to reach me **ansa.anjuma00786@gmail.com**
+with a diverse andpromising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
 
 
 
-</br>
-<hr>
-</br>
-</br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+- 🤔 I use daily ```.js```,``` .cs```, ```.html```
+- 🛠 I’m currently learning about **deep learning**🥰<br>
+- 🔥 I use to write coad on **[leetcode](https://leetcode.com/)** <br>
+- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
+- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
+- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
+- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
+
+
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+
+ <hr>
+
 
 ## Connect with me:-
 <p align="left">
@@ -106,8 +97,17 @@
 <br/>
 <br/>
 
-
-
 </p>
+                                                            
+<hr clear="both">
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)                
 
 
