@@ -6,7 +6,7 @@
 
 
  
- <p>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
+ <p>- <i>Aspiring full stack web developer with excellent problem-solving skills. Able to perform well in a team. Passionate about coding and equip with a diverse and promising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
 
 
 
