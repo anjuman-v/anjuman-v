@@ -85,9 +85,7 @@
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anjuman-v)](https://github.com/ryo-ma/github-profile-trophy)
 
-</br>
 
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
